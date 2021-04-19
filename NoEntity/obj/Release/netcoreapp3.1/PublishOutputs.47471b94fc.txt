@@ -1,0 +1,167 @@
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\NoEntity.exe
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\css\MyStyle.css
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\css\site.css
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\favicon.ico
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\header.jpg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\IndexBG.jpg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\js\SomeeAdsRemover.js
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\LICENSE
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Old paper.jfif
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Old paper.jpeg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Old paper.jpg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Rainbow.jpg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\site.css
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextBG.jpg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Метод обеспечение\Маргарита Шевченко - Психологические рисуночные тесты.pdf
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Мои презентации\Влияние семейного воспитания на психологическое здоровье  ребёнка.ppt.pps
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Мои презентации\Дети с синдромом дефицита внимания и гиперактивности.ppt.pps
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Мои презентации\Использование сказкотерапии в работе  с детьми дошкольного  возраста.pptx
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Мои презентации\Коррекция  повышенной тревожности у детей дошкольного возраста.ppt.pps
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Мои презентации\Повышение  коммуникативной компетенции педагогов  в общениис родителями.ppt.pps
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Мои презентации\Поощрения и наказания в семье.ppt.pps
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Мои презентации\Профилактика  эмоционального  выгорания  педагогов.ppt.pps
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Мои презентации\Психологическая  готовность к обучению  в школе.ppt.pps
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Мои презентации\Центры  социально - эмоц. развития в группах  детского  сада.ppt.pps
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Помощь родителям\download.php
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Помощь родителям\Дворец  врулей.mp3
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Помощь родителям\Как  Ильюша  животик  кормил.mp3
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Помощь родителям\Как Костя стал умываться.mp3
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Помощь родителям\М. Андреева, 100 секретов воспитания детей.pdf
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Помощь родителям\Поцелуй  Хотелки.mp3
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Помощь родителям\Прилипчивый  телевизор.mp3
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Помощь родителям\Сказка  про  смелого  Алешу.mp3
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Помощь родителям\Сказка  про маленькую тучку.mp3
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Помощь родителям\Сказка  про страну  Нерях.mp3
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Приказ  Об утверждении профессионального стандарта педагога-психолога .pdf
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\ФГОС ДО (проект).pdf
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Фотогалерея\1.1Психологич гостинная.jpg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Фотогалерея\1.2Психологич гостинная.jpg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Фотогалерея\10.1Путешествие со сказкой.jpg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Фотогалерея\10.2Путешествие со сказкой.jpg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Фотогалерея\11.1Выступление ППМС.jpg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Фотогалерея\11.2Выступление ППМС.jpg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Фотогалерея\2Родительский клуб вместе.jfif
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Фотогалерея\3.1Самовыгорание.jpg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Фотогалерея\3.2Самовыгорание.jpg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Фотогалерея\4.1выступление логопедов.jfif
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Фотогалерея\4.2выступление логопедов.jfif
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Фотогалерея\4.3выступление логопедов.jfif
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Фотогалерея\5.1Круглый стол.jfif
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Фотогалерея\6В здоровом теле.jfif
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Фотогалерея\7Школа молодого педагога.jpg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Фотогалерея\8Педсовет.jpg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextDocuments\Фотогалерея\9Ритмы музыки.jpg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\DiagnosticBot.png
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\DiagnosticTop.jpg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\GaleryBot12.png
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\GalleryTop12.jpg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\Guest13Bot.jpg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\Guest13Top.png
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\HelpfulSitesBot10.png
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\HelpfulSitesTop10.gif
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\HelpP7Bot.gif
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\HelpP7Top.jpg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\HelpParentsBot8.jpg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\HelpParentsMid8.gif
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\HelpParentsTop8.jpg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\IconDoc.png
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\IconMP3.png
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\IconPDF.png
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\IconPresent.png
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\KidsPageBot11.png
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\KidsPageMid11.jpg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\KidsPageTop11.gif
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\MainFotoOV.jpg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\MethodBot.gif
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\MethodTop.jpg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\PMbot6.jpg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\PresentBot9.png
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\RightArrow.png
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\WelcomeBot.gif
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\WelcomeFootage.jpg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\WelcomeImageOV.jpg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\WelcomeMessage.gif
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\WelcomeTop.gif
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\Нормдок база.png
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\Нормдок Старт.jpg
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\TextPictures\Работа педагога.png
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\NoEntity.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\NoEntity.deps.json
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\NoEntity.runtimeconfig.json
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\NoEntity.pdb
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\System.Collections.Immutable.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\System.Runtime.Caching.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\NoEntity.Views.dll
+C:\Users\User\Desktop\VisualSTD Projects\NoEntity\obj\Release\netcoreapp3.1\PubTmp\Out\NoEntity.Views.pdb

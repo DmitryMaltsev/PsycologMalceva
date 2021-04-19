@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Этот файл используется процессом публикации или упаковки вашего веб-проекта. Можно настроить поведение этого процесса,
+изменив этот файл MSBuild. Подробности см. на странице https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAbO4E5jTQCEyLb/T8Eik8nAAAAAACAAAAAAAQZgAAAAEAACAAAAAEAYQn6CnXyKK5KcwhVfNMh+w6p+okeaZZI48FdQj+2wAAAAAOgAAAAAIAACAAAABnjwoEApFMSLn12kmc4I8WzErLr5VmW24mIKm4zwBw2yAAAADSBi3uxHu85sLUcQfSPg19pW3CEK+GcYv742ZX1g5+S0AAAADjyZYGvbTmPzErHBDG6OHMty0YHb4+Hfcqy+T6y4j6u95+jDsGrUQ6XkdBktcNNtHuJnZHIrf3pNZ7rXKowN9C</EncryptedPassword>
+    <_PublishTargetUrl>ftp://PsychologistMalceva.somee.com/www.PsychologistMalceva.somee.com</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>04/19/2021 12:09:20</publishTime>
+    </File>
+    <File Include="Microsoft.Data.SqlClient.dll">
+      <publishTime>08/25/2020 23:24:48</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <publishTime>03/11/2021 18:35:30</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.dll">
+      <publishTime>03/11/2021 18:35:48</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Relational.dll">
+      <publishTime>03/11/2021 18:36:28</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.SqlServer.dll">
+      <publishTime>03/11/2021 18:36:44</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Caching.Abstractions.dll">
+      <publishTime>10/19/2020 18:48:26</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Caching.Memory.dll">
+      <publishTime>10/19/2020 18:48:36</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Configuration.Abstractions.dll">
+      <publishTime>10/19/2020 18:48:28</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyInjection.Abstractions.dll">
+      <publishTime>10/19/2020 18:48:00</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyInjection.dll">
+      <publishTime>11/26/2020 01:59:08</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Logging.Abstractions.dll">
+      <publishTime>10/19/2020 18:48:04</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Logging.dll">
+      <publishTime>10/19/2020 18:53:18</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Options.dll">
+      <publishTime>10/19/2020 18:48:30</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Primitives.dll">
+      <publishTime>10/19/2020 18:48:36</publishTime>
+    </File>
+    <File Include="Microsoft.Identity.Client.dll">
+      <publishTime>05/18/2020 20:11:54</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>10/18/2019 23:39:24</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Logging.dll">
+      <publishTime>10/18/2019 23:40:20</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.dll">
+      <publishTime>10/18/2019 23:41:02</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.OpenIdConnect.dll">
+      <publishTime>10/18/2019 23:48:48</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>10/18/2019 23:43:40</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>03/20/2017 20:03:18</publishTime>
+    </File>
+    <File Include="NoEntity.deps.json">
+      <publishTime>04/19/2021 13:25:49</publishTime>
+    </File>
+    <File Include="NoEntity.dll">
+      <publishTime>04/19/2021 13:25:47</publishTime>
+    </File>
+    <File Include="NoEntity.exe">
+      <publishTime>04/19/2021 13:25:47</publishTime>
+    </File>
+    <File Include="NoEntity.pdb">
+      <publishTime>04/19/2021 13:25:47</publishTime>
+    </File>
+    <File Include="NoEntity.runtimeconfig.json">
+      <publishTime>04/19/2021 12:14:48</publishTime>
+    </File>
+    <File Include="NoEntity.Views.dll">
+      <publishTime>04/19/2021 13:25:49</publishTime>
+    </File>
+    <File Include="NoEntity.Views.pdb">
+      <publishTime>04/19/2021 13:25:49</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll">
+      <publishTime>08/25/2020 23:25:12</publishTime>
+    </File>
+    <File Include="runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>08/25/2020 20:34:56</publishTime>
+    </File>
+    <File Include="runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb">
+      <publishTime>08/25/2020 20:31:56</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>08/25/2020 20:35:06</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb">
+      <publishTime>08/25/2020 20:31:56</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>08/25/2020 20:34:56</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb">
+      <publishTime>08/25/2020 20:31:56</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>08/25/2020 20:34:56</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb">
+      <publishTime>08/25/2020 20:31:56</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll">
+      <publishTime>08/25/2020 23:24:48</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll">
+      <publishTime>11/15/2019 08:53:44</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>11/15/2019 08:53:46</publishTime>
+    </File>
+    <File Include="System.Collections.Immutable.dll">
+      <publishTime>10/19/2020 18:37:40</publishTime>
+    </File>
+    <File Include="System.ComponentModel.Annotations.dll">
+      <publishTime>10/19/2020 18:37:54</publishTime>
+    </File>
+    <File Include="System.Configuration.ConfigurationManager.dll">
+      <publishTime>11/15/2019 08:37:04</publishTime>
+    </File>
+    <File Include="System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>12/12/2020 02:40:42</publishTime>
+    </File>
+    <File Include="System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>10/18/2019 23:38:18</publishTime>
+    </File>
+    <File Include="System.Runtime.Caching.dll">
+      <publishTime>11/15/2019 08:37:36</publishTime>
+    </File>
+    <File Include="System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>11/15/2019 08:37:42</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>04/19/2021 13:25:50</publishTime>
+    </File>
+    <File Include="wwwroot/css/MyStyle.css">
+      <publishTime>04/19/2021 10:38:55</publishTime>
+    </File>
+    <File Include="wwwroot/css/site.css">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/favicon.ico">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/header.jpg">
+      <publishTime>01/09/2021 18:04:50</publishTime>
+    </File>
+    <File Include="wwwroot/IndexBG.jpg">
+      <publishTime>01/27/2021 14:24:04</publishTime>
+    </File>
+    <File Include="wwwroot/js/site.js">
+      <publishTime>04/12/2021 21:10:01</publishTime>
+    </File>
+    <File Include="wwwroot/js/SomeeAdsRemover.js">
+      <publishTime>04/12/2021 22:06:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.css">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.css.map">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.js">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.js.map">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.min.js">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/LICENSE">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/additional-methods.js">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/additional-methods.min.js">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/jquery.validate.js">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/jquery.validate.min.js">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/LICENSE.md">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.js">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.min.js">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.min.map">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/LICENSE.txt">
+      <publishTime>04/12/2021 11:27:34</publishTime>
+    </File>
+    <File Include="wwwroot/Old paper.jfif">
+      <publishTime>03/20/2021 17:58:40</publishTime>
+    </File>
+    <File Include="wwwroot/Old paper.jpeg">
+      <publishTime>03/17/2021 19:22:42</publishTime>
+    </File>
+    <File Include="wwwroot/Old paper.jpg">
+      <publishTime>03/20/2021 18:00:14</publishTime>
+    </File>
+    <File Include="wwwroot/Rainbow.jpg">
+      <publishTime>01/29/2021 09:43:20</publishTime>
+    </File>
+    <File Include="wwwroot/site.css">
+      <publishTime>03/18/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/TextBG.jpg">
+      <publishTime>01/09/2021 18:09:26</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/В помощь педагогам/«Мямлики»  или гипоактивные дети».doc">
+      <publishTime>03/14/2021 15:49:10</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/В помощь педагогам/Взаимодействие  педагога  с  агрессивными детьми.doc">
+      <publishTime>03/14/2021 15:47:24</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/В помощь педагогам/Изучение воспитателем индивидуально - типологических особенностей  детей - залог полноценного  развития  ребёнка.doc">
+      <publishTime>03/14/2021 15:47:26</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/В помощь педагогам/Организация  предметно – развивающей среды   в ДОУ  в условиях  ФГТ..doc">
+      <publishTime>03/14/2021 15:47:22</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/В помощь педагогам/Особенности  взаимодействия  педагога  с гиперактивными детьми.doc">
+      <publishTime>03/14/2021 15:47:26</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/В помощь педагогам/Психологические  притчи.doc">
+      <publishTime>03/14/2021 15:47:28</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/В помощь педагогам/Психологические особенности детей дошкольного  возраста.doc">
+      <publishTime>03/14/2021 15:47:28</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/В помощь педагогам/Создание психологического комфорта в группах детского сада.doc">
+      <publishTime>03/14/2021 15:47:30</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/В помощь педагогам/Тревожный ребёнок и как ему помочь.doc">
+      <publishTime>03/14/2021 15:57:58</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/В помощь педагогам/Шпаргалки  для воспитателей.doc">
+      <publishTime>03/14/2021 15:59:08</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Диагностический инструментарий/Диагностика для родителей/Тест  Сказка.doc">
+      <publishTime>03/13/2021 15:27:46</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Диагностический инструментарий/Диагностика для родителей/Тест - Какой тип  темперамента у вашего  ребёнка.doc">
+      <publishTime>03/13/2021 15:27:42</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Диагностический инструментарий/Диагностика для родителей/Тест - Правильно ли вы воспитываете своего  ребёнка.doc">
+      <publishTime>03/13/2021 15:27:44</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Диагностический инструментарий/Диагностика для родителей/Тест - Я и мой ребёнок.doc">
+      <publishTime>03/13/2021 15:27:48</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Диагностический инструментарий/Диагностика для родителей/Тест -Какая  вы  мама.doc">
+      <publishTime>03/13/2021 15:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Диагностический инструментарий/Диагностика для родителей/Тест -Какой  вы  папа.doc">
+      <publishTime>03/13/2021 15:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Диагностический инструментарий/Диагностика для родителей/Тест Хорошие ли вы родители.doc">
+      <publishTime>03/13/2021 15:27:52</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Диагностический инструментарий/Диагностика для родителей/Тест-опросник родительского отношения А.Я.Варга, В.В.Столин.doc">
+      <publishTime>03/13/2021 15:27:54</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Диагностический инструментарий/Диагностическа для детей/Диагностическая  методика - Секрет.doc">
+      <publishTime>03/13/2021 15:26:36</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Диагностический инструментарий/Диагностическа для детей/Исследование тревожности ребенка дошкольного возраста.doc">
+      <publishTime>03/13/2021 15:26:38</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Диагностический инструментарий/Диагностическа для детей/Методика  Два  дома.doc">
+      <publishTime>03/13/2021 15:26:36</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Диагностический инструментарий/Диагностическа для детей/Методика  исследования мотивации учения у старших  дошкольников.doc">
+      <publishTime>03/13/2021 15:26:40</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Диагностический инструментарий/Диагностическа для детей/Методика  Я - в детском  саду.doc">
+      <publishTime>03/13/2021 15:26:40</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Диагностический инструментарий/Диагностическа для детей/Методики  определения самооценки  дошкольника.doc">
+      <publishTime>03/13/2021 15:26:42</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Диагностический инструментарий/Диагностическа для детей/Проективная методика  Кактус.doc">
+      <publishTime>03/13/2021 15:26:44</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Диагностический инструментарий/Диагностическа для детей/Тест - Несуществующее  животное.doc">
+      <publishTime>03/13/2021 15:26:46</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Диагностический инструментарий/Диагностическа для детей/Тест - Страхи в домиках.doc">
+      <publishTime>03/13/2021 15:26:48</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Диагностический инструментарий/Диагностическа для детей/Тест-  Рисунок  семьи.doc">
+      <publishTime>03/13/2021 15:26:46</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Диагностический инструментарий/Диагностическа для педагогов/Готовность  педагога  к инновационной деятельности.doc">
+      <publishTime>03/13/2021 15:27:00</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Диагностический инструментарий/Диагностическа для педагогов/Методика диагностики уровня Эмоционального выгорания В. В. Бойко..doc">
+      <publishTime>03/13/2021 15:27:02</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Диагностический инструментарий/Диагностическа для педагогов/Оценка  коммуникативной компетентности педагога в общении с родителями воспитанников.doc">
+      <publishTime>03/13/2021 15:27:02</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Диагностический инструментарий/Диагностическа для педагогов/Оценка психологического климата в коллективе.doc">
+      <publishTime>03/13/2021 15:27:04</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Диагностический инструментарий/Диагностическа для педагогов/Педагогический такт.doc">
+      <publishTime>03/13/2021 15:27:06</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Диагностический инструментарий/Диагностическа для педагогов/Способность педагога  к эмпатии.doc">
+      <publishTime>03/13/2021 15:27:06</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Диагностический инструментарий/Диагностическа для педагогов/Способность педагога к творческому саморазвитию.doc">
+      <publishTime>03/13/2021 15:27:08</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Диагностический инструментарий/Диагностическа для педагогов/Тест - Ваш  творческий  потенциал.doc">
+      <publishTime>03/13/2021 15:27:08</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Диагностический инструментарий/Диагностическа для педагогов/Тест -Какой  я педагог.doc">
+      <publishTime>03/13/2021 15:27:10</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Диагностический инструментарий/Диагностическа для педагогов/Экспресс -  диагностика  изучения психологического  климата в коллективе.doc">
+      <publishTime>03/13/2021 15:27:12</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Должностная инструкция  педагога - психолога.doc">
+      <publishTime>02/08/2021 08:33:28</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Закон об основных гарантиях прав ребёнка.doc">
+      <publishTime>02/08/2021 08:33:16</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Извлечение из ФЗ  РФ об образовании.doc">
+      <publishTime>02/08/2021 08:33:14</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Конвенция о правах ребёнка.doc">
+      <publishTime>02/07/2021 16:04:16</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Метод обеспечение/А.С. Роньжина - Занятия психолога по адаптации детей к ДОУ..doc">
+      <publishTime>03/14/2021 14:31:46</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Метод обеспечение/Аралова М.А.- Формирование колектива   ДОУ.doc">
+      <publishTime>03/14/2021 14:32:12</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Метод обеспечение/Арцишевская И.Л. Работа психолога с гиперактивными детьми в детском саду.doc">
+      <publishTime>03/14/2021 14:31:52</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Метод обеспечение/В. Л. Шарохина  - конспекты занятий с детьми  второй  младшей группы.doc">
+      <publishTime>03/14/2021 14:31:46</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Метод обеспечение/В. Л. Шарохина  - конспекты занятий с детьми  средней группы.doc">
+      <publishTime>03/14/2021 14:31:48</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Метод обеспечение/В. Л. Шарохина  - конспекты занятий с детьми  старшей группы.doc">
+      <publishTime>03/14/2021 14:31:48</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Метод обеспечение/Крюкова С. В., Слободяник  Н.П.  -  Давайте жить дружно.doc">
+      <publishTime>03/14/2021 14:31:54</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Метод обеспечение/Крюкова С. В., Слободяник Н.П.  Удивляюсь, злюсь, боюсь, хвастаюсь и радуюсь..doc">
+      <publishTime>03/14/2021 14:31:56</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Метод обеспечение/Кузуб Н.В., Осипук Э.И. - В гостях у песочной феи.doc">
+      <publishTime>03/14/2021 14:32:06</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Метод обеспечение/Л. И. Катаева - конспекты занятий с детьми  подготовительной  группы.doc">
+      <publishTime>03/14/2021 14:31:50</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Метод обеспечение/Л.М. Костина - Программа по коррекции  тревожности  Я сам.doc">
+      <publishTime>03/14/2021 14:31:58</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Метод обеспечение/Л.М. Костина - Программа по коррекции тревожности  Само - чувствие.doc">
+      <publishTime>03/14/2021 14:32:02</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Метод обеспечение/Маргарита Шевченко - Психологические рисуночные тесты.pdf">
+      <publishTime>03/14/2021 14:32:16</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Метод обеспечение/Останкова Ю. В. Система коррекционно-развивающих занятий по подготовке детей к школе.doc">
+      <publishTime>03/14/2021 14:32:08</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Метод обеспечение/Хухлаева О.В.-Лабиринт души %28терапевтические сказки%29.doc">
+      <publishTime>03/14/2021 14:32:12</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Метод обеспечение/Широкова Г.А. - Справочник дошкольного психолога.doc">
+      <publishTime>03/14/2021 14:32:04</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Метод обеспечение/Шитова Е.В. - Работа с родителями %28рекомендации и консультации дети 2-7 лет%29.doc">
+      <publishTime>03/14/2021 14:32:06</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для детей/В гостях у песочной Феи.docx">
+      <publishTime>03/12/2021 17:19:52</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для детей/Вместе — дружные ребята.docx">
+      <publishTime>03/12/2021 17:20:44</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для детей/Дружные  ребята.docx">
+      <publishTime>03/12/2021 17:20:58</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для детей/Коммуникативный  тренинг - Если бы я был волшебником.docx">
+      <publishTime>03/12/2021 17:20:50</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для детей/Мы поссоримся и помиримся.docx">
+      <publishTime>03/12/2021 17:20:52</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для детей/Победитель злости.docx">
+      <publishTime>03/12/2021 17:20:56</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для детей/Путешествие в осенний  лес.doc">
+      <publishTime>03/12/2021 17:20:56</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для детей/Путешествие в страну Чувств.docx">
+      <publishTime>03/12/2021 17:20:58</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для детей/Путешествие Золотой рыбки.docx">
+      <publishTime>03/12/2021 17:21:00</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для детей/Путешествие с Почемучкой.docx">
+      <publishTime>03/12/2021 17:21:08</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для детей/Сказочная страна.docx">
+      <publishTime>03/12/2021 17:21:10</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для детей/Что такое доброта.doc">
+      <publishTime>03/12/2021 17:21:12</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для педагогов/Конструктивное поведение в конфликте.docx">
+      <publishTime>03/12/2021 17:21:42</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для педагогов/Круглый  стол - Психологическая  готовность к обучению  в школе.docx">
+      <publishTime>03/12/2021 17:21:48</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для педагогов/Семинар - практикум  Создание психологического комфорта в группах детского сада..doc">
+      <publishTime>03/12/2021 17:21:50</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для педагогов/Семинар - практикум - Развитие творческого потенциала педагога.doc">
+      <publishTime>03/12/2021 17:21:50</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для педагогов/Семинар - практикум Наказывая,  подумай зачем.doc">
+      <publishTime>03/12/2021 17:21:52</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для педагогов/Семинар - практикум Секреты хорошей дисциплины.doc">
+      <publishTime>03/12/2021 17:21:52</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для педагогов/Семинар -Техники установления позитивных отношений с родителями и детьми. Развитие коммуникативных навыков.doc">
+      <publishTime>03/12/2021 17:21:56</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для педагогов/Семинар с элементами тренинга - Как предупредить и преодолеть нарушения в эмоциональном развитии детей.doc">
+      <publishTime>03/12/2021 17:21:54</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для педагогов/Тренинг  на сплочение  педагогического коллектива.docx">
+      <publishTime>03/12/2021 17:22:00</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для педагогов/Тренинг - Как жить полной жизнью и «не сгореть» на работе.docx">
+      <publishTime>03/12/2021 17:21:58</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для педагогов/Тренинг личностного роста для педагогов.doc">
+      <publishTime>03/12/2021 17:22:00</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для родителей/Консультация - Гендерное воспитание ребенка в семье.docx">
+      <publishTime>03/12/2021 17:22:50</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для родителей/Круглый  стол- Капризы и упрямства детей дошкольного возраста.docx">
+      <publishTime>03/12/2021 17:22:48</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для родителей/Семинар - Адаптация детей раннего возраста  к условиям ДОУ.doc">
+      <publishTime>03/12/2021 17:22:52</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для родителей/Семинар - практикум - Я и ребёнок — поиски взаимопонимания.docx">
+      <publishTime>03/12/2021 17:22:54</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для родителей/Семинар -Кризис 3 лет.docx">
+      <publishTime>03/12/2021 17:22:56</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для родителей/Собрание - Искусство наказывать и прощать.doc">
+      <publishTime>03/12/2021 17:22:56</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Методическая Копилка/Для родителей/Собрание -Психологическая готовность к обучению  в школе.doc">
+      <publishTime>03/12/2021 17:23:00</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Мои презентации/Влияние семейного воспитания на психологическое здоровье  ребёнка.ppt.pps">
+      <publishTime>03/16/2021 15:02:04</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Мои презентации/Дети с синдромом дефицита внимания и гиперактивности.ppt.pps">
+      <publishTime>03/16/2021 14:50:34</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Мои презентации/Использование сказкотерапии в работе  с детьми дошкольного  возраста.pptx">
+      <publishTime>03/16/2021 15:06:38</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Мои презентации/Коррекция  повышенной тревожности у детей дошкольного возраста.ppt.pps">
+      <publishTime>03/16/2021 15:07:48</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Мои презентации/Повышение  коммуникативной компетенции педагогов  в общениис родителями.ppt.pps">
+      <publishTime>03/16/2021 14:50:44</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Мои презентации/Поощрения и наказания в семье.ppt.pps">
+      <publishTime>03/16/2021 14:50:38</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Мои презентации/Профилактика  эмоционального  выгорания  педагогов.ppt.pps">
+      <publishTime>03/16/2021 14:50:40</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Мои презентации/Психологическая  готовность к обучению  в школе.ppt.pps">
+      <publishTime>03/16/2021 14:50:42</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Мои презентации/Центры  социально - эмоц. развития в группах  детского  сада.ppt.pps">
+      <publishTime>03/16/2021 15:12:38</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/О введении должности психолога в учреждениях   народного образования.doc">
+      <publishTime>02/08/2021 08:33:22</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/О практике проведения диагностики развития ребёнка в системе дошкольного  образования.doc">
+      <publishTime>02/08/2021 08:33:30</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/О преемственности дошкольного и начального общего образования.doc">
+      <publishTime>02/08/2021 08:33:30</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/О состоянии и перспективах развития службы практической психологии  образования РФ.doc">
+      <publishTime>02/08/2021 08:33:20</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Об использовании  рабочего времени педагога - психолога ОУ.doc">
+      <publishTime>02/08/2021 08:33:24</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Об педагогах - психологах и учителях - логопедах  учреждений  образования.doc">
+      <publishTime>02/08/2021 08:33:26</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Письмо Минобразования РФ - О подготовке детей к школе.doc">
+      <publishTime>02/08/2021 08:33:32</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Помощь родителям/download.php">
+      <publishTime>03/15/2021 22:56:04</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Помощь родителям/Дворец  врулей.mp3">
+      <publishTime>03/15/2021 19:20:24</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Помощь родителям/Если ваш ребёнок застенчив.doc">
+      <publishTime>03/15/2021 19:16:52</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Помощь родителям/Индивидуальный подход к детям с разными типами темперамента.doc">
+      <publishTime>03/15/2021 19:16:42</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Помощь родителям/Как  быть со страхами у детей.doc">
+      <publishTime>03/15/2021 19:16:44</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Помощь родителям/Как  воспитывать гиперактивного  ребёнка.doc">
+      <publishTime>03/15/2021 19:16:46</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Помощь родителям/Как  Ильюша  животик  кормил.mp3">
+      <publishTime>03/15/2021 19:20:12</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Помощь родителям/Как Костя стал умываться.mp3">
+      <publishTime>03/15/2021 19:20:14</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Помощь родителям/Конфликты  между  детьми.  Что  делать.doc">
+      <publishTime>03/15/2021 19:16:46</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Помощь родителям/Кризисы  дошкольного  возраста.doc">
+      <publishTime>03/15/2021 19:16:50</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Помощь родителям/М. Андреева, 100 секретов воспитания детей.pdf">
+      <publishTime>03/15/2021 20:38:54</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Помощь родителям/Негативное влияние СМИ на развитие детей.doc">
+      <publishTime>03/15/2021 19:16:52</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Помощь родителям/Онанизм у маленького ребенка. Что делать.doc">
+      <publishTime>03/15/2021 19:16:56</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Помощь родителям/Поцелуй  Хотелки.mp3">
+      <publishTime>03/15/2021 19:20:08</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Помощь родителям/Прилипчивый  телевизор.mp3">
+      <publishTime>03/15/2021 19:20:02</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Помощь родителям/Психологические особенности детей дошкольного  возраста.doc">
+      <publishTime>03/15/2021 19:17:06</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Помощь родителям/Психологические сказки.doc">
+      <publishTime>03/15/2021 19:16:58</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Помощь родителям/Самооценка ребенка. Что это такое.doc">
+      <publishTime>03/15/2021 19:17:00</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Помощь родителям/Сказка  про  смелого  Алешу.mp3">
+      <publishTime>03/15/2021 19:20:18</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Помощь родителям/Сказка  про маленькую тучку.mp3">
+      <publishTime>03/15/2021 19:20:22</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Помощь родителям/Сказка  про страну  Нерях.mp3">
+      <publishTime>03/15/2021 19:20:08</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Помощь родителям/Тревожный  ребёнок. Как  ему помочь.doc">
+      <publishTime>03/15/2021 19:17:00</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Помощь родителям/Я - не жадина. Как помочь ребёнку  научиться  делиться.doc">
+      <publishTime>03/15/2021 19:17:02</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Приказ  Об утверждении профессионального стандарта педагога-психолога .pdf">
+      <publishTime>02/08/2021 22:24:00</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Приказ о порядке  аттестации педагогических работников.doc">
+      <publishTime>02/08/2021 08:33:34</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Приказ о службе практической психологии в системе министерства образования РФ.doc">
+      <publishTime>02/08/2021 08:33:18</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Работа педагога-психологаДОУ в эпоху новых стандартов.docx">
+      <publishTime>02/08/2021 22:23:58</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/ФГОС ДО %28проект%29.pdf">
+      <publishTime>02/08/2021 22:23:56</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Фотогалерея/1.1Психологич гостинная.jpg">
+      <publishTime>04/04/2021 15:07:14</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Фотогалерея/1.2Психологич гостинная.jpg">
+      <publishTime>04/04/2021 15:07:50</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Фотогалерея/10.1Путешествие со сказкой.jpg">
+      <publishTime>04/04/2021 16:10:10</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Фотогалерея/10.2Путешествие со сказкой.jpg">
+      <publishTime>04/04/2021 16:10:28</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Фотогалерея/11.1Выступление ППМС.jpg">
+      <publishTime>04/04/2021 16:23:10</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Фотогалерея/11.2Выступление ППМС.jpg">
+      <publishTime>04/04/2021 16:23:34</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Фотогалерея/2Родительский клуб вместе.jfif">
+      <publishTime>04/04/2021 15:23:48</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Фотогалерея/3.1Самовыгорание.jpg">
+      <publishTime>04/04/2021 15:34:56</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Фотогалерея/3.2Самовыгорание.jpg">
+      <publishTime>04/04/2021 15:35:10</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Фотогалерея/4.1выступление логопедов.jfif">
+      <publishTime>04/04/2021 15:38:46</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Фотогалерея/4.2выступление логопедов.jfif">
+      <publishTime>04/04/2021 15:38:58</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Фотогалерея/4.3выступление логопедов.jfif">
+      <publishTime>04/04/2021 15:39:12</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Фотогалерея/5.1Круглый стол.jfif">
+      <publishTime>04/04/2021 15:58:02</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Фотогалерея/6В здоровом теле.jfif">
+      <publishTime>04/04/2021 15:59:58</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Фотогалерея/7Школа молодого педагога.jpg">
+      <publishTime>04/04/2021 16:04:04</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Фотогалерея/8Педсовет.jpg">
+      <publishTime>04/04/2021 16:06:30</publishTime>
+    </File>
+    <File Include="wwwroot/TextDocuments/Фотогалерея/9Ритмы музыки.jpg">
+      <publishTime>04/04/2021 16:09:04</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/DiagnosticBot.png">
+      <publishTime>03/13/2021 15:23:34</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/DiagnosticTop.jpg">
+      <publishTime>03/13/2021 15:23:20</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/GaleryBot12.png">
+      <publishTime>03/17/2021 21:27:48</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/GalleryTop12.jpg">
+      <publishTime>03/17/2021 21:27:00</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/Guest13Bot.jpg">
+      <publishTime>03/19/2021 14:40:42</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/Guest13Top.png">
+      <publishTime>03/19/2021 14:39:32</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/HelpfulSitesBot10.png">
+      <publishTime>03/16/2021 15:18:58</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/HelpfulSitesTop10.gif">
+      <publishTime>03/16/2021 15:18:20</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/HelpP7Bot.gif">
+      <publishTime>03/14/2021 15:36:52</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/HelpP7Top.jpg">
+      <publishTime>03/14/2021 15:36:30</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/HelpParentsBot8.jpg">
+      <publishTime>03/15/2021 19:23:26</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/HelpParentsMid8.gif">
+      <publishTime>03/15/2021 19:40:32</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/HelpParentsTop8.jpg">
+      <publishTime>03/15/2021 19:21:28</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/IconDoc.png">
+      <publishTime>02/07/2021 16:11:08</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/IconMP3.png">
+      <publishTime>03/15/2021 20:00:38</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/IconPDF.png">
+      <publishTime>02/08/2021 22:43:26</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/IconPresent.png">
+      <publishTime>03/16/2021 14:52:10</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/KidsPageBot11.png">
+      <publishTime>03/16/2021 16:20:52</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/KidsPageMid11.jpg">
+      <publishTime>03/16/2021 16:19:00</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/KidsPageTop11.gif">
+      <publishTime>03/16/2021 16:18:34</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/MainFotoOV.jpg">
+      <publishTime>03/20/2021 17:01:00</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/MethodBot.gif">
+      <publishTime>03/12/2021 17:18:50</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/MethodTop.jpg">
+      <publishTime>03/12/2021 17:18:34</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/PMbot6.jpg">
+      <publishTime>03/14/2021 14:56:42</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/PresentBot9.png">
+      <publishTime>03/16/2021 14:51:34</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/RightArrow.png">
+      <publishTime>06/20/2020 13:58:22</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/WelcomeBot.gif">
+      <publishTime>01/28/2021 19:06:04</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/WelcomeFootage.jpg">
+      <publishTime>03/12/2021 10:12:14</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/WelcomeImageOV.jpg">
+      <publishTime>03/20/2021 16:54:58</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/WelcomeMessage.gif">
+      <publishTime>03/12/2021 10:31:22</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/WelcomeTop.gif">
+      <publishTime>01/28/2021 19:05:44</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/Нормдок база.png">
+      <publishTime>02/07/2021 15:43:46</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/Нормдок Старт.jpg">
+      <publishTime>02/07/2021 15:43:20</publishTime>
+    </File>
+    <File Include="wwwroot/TextPictures/Работа педагога.png">
+      <publishTime>02/08/2021 22:19:16</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
